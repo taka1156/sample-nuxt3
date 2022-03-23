@@ -1,6 +1,5 @@
 <template>
   <div>
-    <nuxt-link to="/store/">pinia</nuxt-link>
     <NuxtWelcome />
   </div>
 </template>
